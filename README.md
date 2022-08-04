@@ -4,4 +4,4 @@ A simple front end website design project, not including any server side functio
 
 This is an e-commerce website design project I created during my university years. 
 
-It is decided for desktop user.
+It is designed for desktop user.
